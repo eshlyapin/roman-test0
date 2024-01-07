@@ -6,6 +6,7 @@ class Object
 {
 public:
   void foo();
+  void foo2();
 };
 
 #endif
